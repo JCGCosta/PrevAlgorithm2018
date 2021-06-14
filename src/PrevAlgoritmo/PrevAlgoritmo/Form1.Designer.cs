@@ -53,7 +53,7 @@
             // 
             // btnCarIni
             // 
-            this.btnCarIni.Location = new System.Drawing.Point(12, 12);
+            this.btnCarIni.Location = new System.Drawing.Point(16, 54);
             this.btnCarIni.Name = "btnCarIni";
             this.btnCarIni.Size = new System.Drawing.Size(307, 37);
             this.btnCarIni.TabIndex = 0;
@@ -78,7 +78,7 @@
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.ActiveCaption;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dvDadosUniverso.DefaultCellStyle = dataGridViewCellStyle1;
-            this.dvDadosUniverso.Location = new System.Drawing.Point(342, 12);
+            this.dvDadosUniverso.Location = new System.Drawing.Point(342, 54);
             this.dvDadosUniverso.Name = "dvDadosUniverso";
             this.dvDadosUniverso.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dvDadosUniverso.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
@@ -92,7 +92,7 @@
             // btnPrevOP
             // 
             this.btnPrevOP.Enabled = false;
-            this.btnPrevOP.Location = new System.Drawing.Point(43, 220);
+            this.btnPrevOP.Location = new System.Drawing.Point(43, 199);
             this.btnPrevOP.Name = "btnPrevOP";
             this.btnPrevOP.Size = new System.Drawing.Size(276, 27);
             this.btnPrevOP.TabIndex = 2;
@@ -103,7 +103,7 @@
             // label
             // 
             this.label.AutoSize = true;
-            this.label.Location = new System.Drawing.Point(12, 133);
+            this.label.Location = new System.Drawing.Point(12, 112);
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(76, 13);
             this.label.TabIndex = 3;
@@ -112,7 +112,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 162);
+            this.label1.Location = new System.Drawing.Point(12, 141);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(136, 13);
             this.label1.TabIndex = 4;
@@ -121,7 +121,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 193);
+            this.label2.Location = new System.Drawing.Point(12, 172);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(208, 13);
             this.label2.TabIndex = 5;
@@ -130,7 +130,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 321);
+            this.label3.Location = new System.Drawing.Point(12, 300);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(156, 13);
             this.label3.TabIndex = 6;
@@ -139,7 +139,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 67);
+            this.label4.Location = new System.Drawing.Point(13, 20);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(91, 13);
             this.label4.TabIndex = 7;
@@ -148,7 +148,7 @@
             // lblFonteD
             // 
             this.lblFonteD.AutoSize = true;
-            this.lblFonteD.Location = new System.Drawing.Point(13, 99);
+            this.lblFonteD.Location = new System.Drawing.Point(110, 20);
             this.lblFonteD.Name = "lblFonteD";
             this.lblFonteD.Size = new System.Drawing.Size(0, 13);
             this.lblFonteD.TabIndex = 8;
@@ -156,7 +156,7 @@
             // lblDadosI
             // 
             this.lblDadosI.AutoSize = true;
-            this.lblDadosI.Location = new System.Drawing.Point(94, 133);
+            this.lblDadosI.Location = new System.Drawing.Point(94, 112);
             this.lblDadosI.Name = "lblDadosI";
             this.lblDadosI.Size = new System.Drawing.Size(0, 13);
             this.lblDadosI.TabIndex = 9;
@@ -164,7 +164,7 @@
             // lblUniverso
             // 
             this.lblUniverso.AutoSize = true;
-            this.lblUniverso.Location = new System.Drawing.Point(154, 162);
+            this.lblUniverso.Location = new System.Drawing.Point(154, 141);
             this.lblUniverso.Name = "lblUniverso";
             this.lblUniverso.Size = new System.Drawing.Size(0, 13);
             this.lblUniverso.TabIndex = 10;
@@ -172,7 +172,7 @@
             // lblPropDIU
             // 
             this.lblPropDIU.AutoSize = true;
-            this.lblPropDIU.Location = new System.Drawing.Point(226, 193);
+            this.lblPropDIU.Location = new System.Drawing.Point(226, 172);
             this.lblPropDIU.Name = "lblPropDIU";
             this.lblPropDIU.Size = new System.Drawing.Size(0, 13);
             this.lblPropDIU.TabIndex = 11;
@@ -180,7 +180,7 @@
             // lblTaxaDeRetornoAc
             // 
             this.lblTaxaDeRetornoAc.AutoSize = true;
-            this.lblTaxaDeRetornoAc.Location = new System.Drawing.Point(174, 321);
+            this.lblTaxaDeRetornoAc.Location = new System.Drawing.Point(174, 300);
             this.lblTaxaDeRetornoAc.Name = "lblTaxaDeRetornoAc";
             this.lblTaxaDeRetornoAc.Size = new System.Drawing.Size(0, 13);
             this.lblTaxaDeRetornoAc.TabIndex = 12;
@@ -188,7 +188,7 @@
             // btnBackProp
             // 
             this.btnBackProp.Enabled = false;
-            this.btnBackProp.Location = new System.Drawing.Point(43, 283);
+            this.btnBackProp.Location = new System.Drawing.Point(43, 262);
             this.btnBackProp.Name = "btnBackProp";
             this.btnBackProp.Size = new System.Drawing.Size(276, 27);
             this.btnBackProp.TabIndex = 13;
@@ -199,7 +199,7 @@
             // btnBranquearDadosI
             // 
             this.btnBranquearDadosI.Enabled = false;
-            this.btnBranquearDadosI.Location = new System.Drawing.Point(43, 250);
+            this.btnBranquearDadosI.Location = new System.Drawing.Point(43, 229);
             this.btnBranquearDadosI.Name = "btnBranquearDadosI";
             this.btnBranquearDadosI.Size = new System.Drawing.Size(276, 27);
             this.btnBranquearDadosI.TabIndex = 14;
@@ -211,7 +211,7 @@
             // 
             this.ch1.AutoSize = true;
             this.ch1.Enabled = false;
-            this.ch1.Location = new System.Drawing.Point(16, 226);
+            this.ch1.Location = new System.Drawing.Point(16, 209);
             this.ch1.Name = "ch1";
             this.ch1.Size = new System.Drawing.Size(15, 14);
             this.ch1.TabIndex = 15;
@@ -221,7 +221,7 @@
             // 
             this.ch2.AutoSize = true;
             this.ch2.Enabled = false;
-            this.ch2.Location = new System.Drawing.Point(16, 256);
+            this.ch2.Location = new System.Drawing.Point(16, 239);
             this.ch2.Name = "ch2";
             this.ch2.Size = new System.Drawing.Size(15, 14);
             this.ch2.TabIndex = 16;
@@ -231,7 +231,7 @@
             // 
             this.ch3.AutoSize = true;
             this.ch3.Enabled = false;
-            this.ch3.Location = new System.Drawing.Point(16, 287);
+            this.ch3.Location = new System.Drawing.Point(16, 270);
             this.ch3.Name = "ch3";
             this.ch3.Size = new System.Drawing.Size(15, 14);
             this.ch3.TabIndex = 17;
@@ -239,7 +239,7 @@
             // 
             // btnreset
             // 
-            this.btnreset.Location = new System.Drawing.Point(244, 494);
+            this.btnreset.Location = new System.Drawing.Point(244, 536);
             this.btnreset.Name = "btnreset";
             this.btnreset.Size = new System.Drawing.Size(75, 23);
             this.btnreset.TabIndex = 18;
@@ -251,7 +251,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(848, 525);
+            this.ClientSize = new System.Drawing.Size(848, 571);
             this.Controls.Add(this.btnreset);
             this.Controls.Add(this.ch3);
             this.Controls.Add(this.ch2);

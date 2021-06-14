@@ -8,3 +8,13 @@ C:\Users\1513 MXTI\source\repos\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgori
 C:\Users\1513 MXTI\source\repos\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.csproj.CoreCompileInputs.cache
 C:\Users\1513 MXTI\source\repos\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.exe
 C:\Users\1513 MXTI\source\repos\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.pdb
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\bin\Debug\PrevAlgoritmo.exe.config
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\bin\Debug\PrevAlgoritmo.exe
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\bin\Debug\PrevAlgoritmo.pdb
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.csprojAssemblyReference.cache
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.Form1.resources
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.Properties.Resources.resources
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.csproj.GenerateResource.cache
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.csproj.CoreCompileInputs.cache
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.exe
+C:\Users\1513 MXTI\Documents\GitHub\PrevAlgorithm2018\src\PrevAlgoritmo\PrevAlgoritmo\obj\Debug\PrevAlgoritmo.pdb
